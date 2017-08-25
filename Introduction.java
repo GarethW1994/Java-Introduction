@@ -5,6 +5,6 @@ public class Introduction {
     Console console = System.console();
 
     //print out welcome to Introduction test
-    console.printf("Welcome to Java Introduction");
+    console.printf("Welcome to Java Introduction !");
   }
 }
