@@ -6,7 +6,7 @@
 
 #### Setting up Development Environment
 
-1. If you don't have JAVA JDK installed on your machine see here:
+1. If you don't have JAVA JDK installed on your machine see here: <a href="http://tipsonubuntu.com/2016/07/31/install-oracle-java-8-9-ubuntu-16-04-linux-mint-18/">JAVA Oracle Installation</a>
 - Alternatively you need to first, update the package index, by running the following command in the terminal:
 ```
 sudo apt-get update
